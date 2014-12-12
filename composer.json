@@ -9,7 +9,6 @@
             "email": "travisjryan@gmail.com"
         }
     ],
-    "homepage":"https://github.com/aloha/laravel4-twilio",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
